@@ -1,0 +1,21 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g class="icon-react">
+<rect class="icon-react1" x="22.9512" y="9" width="9.95833" height="37.8611" rx="1" stroke="url(#paint0_linear_377_462)" stroke-width="2"/>
+<rect class="icon-react2" x="9.36603" y="21.9761" width="9.95833" height="37.8611" rx="1" transform="rotate(-60 9.36603 21.9761)" stroke="url(#paint1_linear_377_462)" stroke-width="2"/>
+<rect class="icon-react3" x="42.1545" y="13.3521" width="9.95833" height="37.8611" rx="1" transform="rotate(60 42.1545 13.3521)" stroke="url(#paint2_linear_377_462)" stroke-width="2"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_377_462" x1="33.2163" y1="5.11151" x2="8.77893" y2="14.5459" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f05353"/>
+<stop offset="1" stop-color="#bd1111"/>
+</linearGradient>
+<linearGradient id="paint1_linear_377_462" x1="19.2651" y1="19.4536" x2="-5.17224" y2="28.888" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f05353"/>
+<stop offset="1" stop-color="#bd1111"/>
+</linearGradient>
+<linearGradient id="paint2_linear_377_462" x1="53.7856" y1="9.09763" x2="29.3483" y2="18.532" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f05353"/>
+<stop offset="1" stop-color="#bd1111"/>
+</linearGradient>
+</defs>
+</svg>
